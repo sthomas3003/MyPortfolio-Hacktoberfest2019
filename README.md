@@ -20,7 +20,23 @@ _Disclaimer! This is a project for fun! I do not expect a professional or high s
 - Keep pull requests small to minimize merge conflicts.
 - Make sure there is no merge conflict
 - Fun things! This is not supposed to be serious or pretty. Be creative add easter eggs and pink stuff! 🐷
+### Don't
 
+- No spam! Small contributions like minor styling or spell correction is accepted but obvious spam for the t-shirt will be labeled invalid.
+- Don't use prettier/auto indent/ auto format because it will create HUGE merge conflicts
+- Do NOT add any build steps e.g. npm install (I want to keep this a simple static site).### Don't
+
+- No spam! Small contributions like minor styling or spell correction is accepted but obvious spam for the t-shirt will be labeled invalid.
+- Don't use prettier/auto indent/ auto format because it will create HUGE merge conflicts
+- Do NOT add any build steps e.g. npm install (I want to keep this a simple static site).### Don't
+
+- No spam! Small contributions like minor styling or spell correction is accepted but obvious spam for the t-shirt will be labeled invalid.
+- Don't use prettier/auto indent/ auto format because it will create HUGE merge conflicts
+- Do NOT add any build steps e.g. npm install (I want to keep this a simple static site).### Don't
+
+- No spam! Small contributions like minor styling or spell correction is accepted but obvious spam for the t-shirt will be labeled invalid.
+- Don't use prettier/auto indent/ auto format because it will create HUGE merge conflicts
+- Do NOT add any build steps e.g. npm install (I want to keep this a simple static site).
 ## About me
 
 - Unemployed Software Developer soon starting to look for jobs in Gothenburg Sweden.
