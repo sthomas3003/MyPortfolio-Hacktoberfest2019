@@ -7,7 +7,7 @@ const style1 = [
 'color: powderBlue',
 'text-shadow: 2px 2px purple',
 'background: plum',
-'font-size: 3em',
+'font-size: 7em',
 'border: 1px solid purple',
 'padding: 20px',
 'font-family: fantasy'
