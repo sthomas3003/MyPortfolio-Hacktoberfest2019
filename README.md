@@ -1,6 +1,6 @@
  - [Live Website](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
 
-Help me make a horrible portfolio by letting people from all over the world contribute with their own ideas and design!
+Help me make a  portfolio by letting people from all over the world contribute with their own ideas and design!
 
 If you have any questions or requests feel free to message me!
 And also the following things guide you to create a compelete and correct pull request.
